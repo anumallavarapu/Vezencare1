@@ -1,0 +1,114 @@
+[FATAL] 2021-09-13 13:55:38.849 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-09-13 13:55:38.981 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-09-13 13:55:39.154 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-09-13 13:55:39.227 [main] TC_UserLoginTest_001 - password entered
+[INFO ] 2021-09-13 13:55:43.741 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-13 13:55:43.814 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-13 13:55:45.918 [main] Userbaseclass - login passed
+[INFO ] 2021-09-13 13:55:47.275 [main] Userbaseclass - username provided::9243581353
+[INFO ] 2021-09-13 13:55:47.369 [main] Userbaseclass - password provided::456813
+[INFO ] 2021-09-13 13:55:49.451 [main] Userbaseclass - login passed
+[ERROR] 2021-09-13 13:56:00.513 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f204043290b1a82250badd490c515a09
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-13 13:56:00.774 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-13 13:56:00.846 [main] Userbaseclass - password provided::12345
+[INFO ] 2021-09-13 13:56:02.927 [main] Userbaseclass - login passed
+[ERROR] 2021-09-13 13:56:13.994 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f204043290b1a82250badd490c515a09
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-13 13:56:14.288 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-13 13:56:14.350 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-13 13:56:16.424 [main] Userbaseclass - login passed
+[INFO ] 2021-09-13 13:56:17.807 [main] Userbaseclass - username provided::8686962272
+[INFO ] 2021-09-13 13:56:17.900 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-13 13:56:19.986 [main] Userbaseclass - login passed
+[ERROR] 2021-09-13 13:56:31.058 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f204043290b1a82250badd490c515a09
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-13 13:56:31.323 [main] Userbaseclass - username provided::9705090668
+[INFO ] 2021-09-13 13:56:31.412 [main] Userbaseclass - password provided::anu@1412
+[INFO ] 2021-09-13 13:56:33.493 [main] Userbaseclass - login passed
+[ERROR] 2021-09-13 13:56:44.559 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f204043290b1a82250badd490c515a09
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[FATAL] 2021-09-13 14:19:06.272 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:19:06.420 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:19:06.617 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:19:06.750 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:28:36.241 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:28:36.472 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:28:36.611 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:28:36.689 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:31:53.228 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:31:53.359 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:31:53.525 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:31:53.627 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:33:29.046 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:33:29.166 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:33:29.326 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:33:29.392 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:35:11.769 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:35:11.999 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:35:12.108 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:35:12.206 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:36:08.598 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:36:08.938 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:36:09.056 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:36:09.132 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:38:35.702 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:38:35.828 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:38:35.954 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:38:36.022 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:47:26.990 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:47:27.100 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:47:27.257 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:47:27.320 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:48:13.779 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:48:13.927 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:48:14.082 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:48:14.169 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:52:48.219 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:52:48.416 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:52:48.551 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:52:48.617 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:53:46.442 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:53:46.597 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:53:46.738 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:53:46.803 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:54:38.690 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:54:38.812 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:54:38.992 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:54:39.087 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 14:56:48.346 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 14:56:48.758 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 14:56:48.961 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 14:56:49.032 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-13 17:27:28.288 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-13 17:27:28.605 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-13 17:27:28.744 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-13 17:27:28.810 [main] TC_UserdashboardTest_002 - password entered

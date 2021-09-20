@@ -1,0 +1,132 @@
+[FATAL] 2021-09-16 21:21:54.000 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-09-16 21:21:54.136 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-09-16 21:21:54.291 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-09-16 21:21:54.350 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-09-16 21:21:57.350 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-16 21:21:57.580 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-16 21:21:57.671 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-16 21:21:57.741 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-16 21:28:08.938 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-09-16 21:28:09.058 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-09-16 21:28:09.210 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-09-16 21:28:09.282 [main] TC_UserLoginTest_001 - password entered
+[INFO ] 2021-09-16 21:28:16.387 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-16 21:28:16.471 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-16 21:28:18.563 [main] Userbaseclass - login passed
+[INFO ] 2021-09-16 21:28:19.904 [main] Userbaseclass - username provided::9243581353
+[INFO ] 2021-09-16 21:28:19.975 [main] Userbaseclass - password provided::456813
+[INFO ] 2021-09-16 21:28:22.052 [main] Userbaseclass - login passed
+[ERROR] 2021-09-16 21:28:33.102 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63461}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a378248dba72e963354ab51499629813
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-16 21:28:33.366 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-16 21:28:33.442 [main] Userbaseclass - password provided::12345
+[INFO ] 2021-09-16 21:28:35.519 [main] Userbaseclass - login passed
+[ERROR] 2021-09-16 21:28:46.586 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63461}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a378248dba72e963354ab51499629813
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-16 21:28:46.873 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-16 21:28:46.954 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-16 21:28:49.037 [main] Userbaseclass - login passed
+[INFO ] 2021-09-16 21:28:50.409 [main] Userbaseclass - username provided::8686962272
+[INFO ] 2021-09-16 21:28:50.478 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-16 21:28:52.571 [main] Userbaseclass - login passed
+[ERROR] 2021-09-16 21:29:03.639 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63461}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a378248dba72e963354ab51499629813
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-16 21:29:03.904 [main] Userbaseclass - username provided::9705090668
+[INFO ] 2021-09-16 21:29:03.985 [main] Userbaseclass - password provided::anu@1412
+[INFO ] 2021-09-16 21:29:06.061 [main] Userbaseclass - login passed
+[ERROR] 2021-09-16 21:29:17.136 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63461}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a378248dba72e963354ab51499629813
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[FATAL] 2021-09-16 21:29:18.949 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-16 21:29:19.186 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-16 21:29:19.269 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-16 21:29:19.336 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-16 23:17:50.741 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-09-16 23:17:50.919 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-09-16 23:17:51.042 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-09-16 23:17:51.109 [main] TC_UserLoginTest_001 - password entered
+[INFO ] 2021-09-16 23:17:58.772 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-16 23:17:58.855 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-16 23:18:00.937 [main] Userbaseclass - login passed
+[INFO ] 2021-09-16 23:18:02.302 [main] Userbaseclass - username provided::9243581353
+[INFO ] 2021-09-16 23:18:02.362 [main] Userbaseclass - password provided::456813
+[INFO ] 2021-09-16 23:18:04.436 [main] Userbaseclass - login passed
+[ERROR] 2021-09-16 23:18:15.470 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51340}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 928c24b74dfe6a89462769ee1cc49624
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-16 23:18:15.738 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-16 23:18:15.813 [main] Userbaseclass - password provided::12345
+[INFO ] 2021-09-16 23:18:17.892 [main] Userbaseclass - login passed
+[ERROR] 2021-09-16 23:18:28.959 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51340}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 928c24b74dfe6a89462769ee1cc49624
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-16 23:18:29.231 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-16 23:18:29.322 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-16 23:18:31.397 [main] Userbaseclass - login passed
+[INFO ] 2021-09-16 23:18:32.763 [main] Userbaseclass - username provided::8686962272
+[INFO ] 2021-09-16 23:18:32.855 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-16 23:18:34.932 [main] Userbaseclass - login passed
+[ERROR] 2021-09-16 23:18:45.976 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51340}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 928c24b74dfe6a89462769ee1cc49624
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-16 23:18:46.216 [main] Userbaseclass - username provided::9705090668
+[INFO ] 2021-09-16 23:18:46.288 [main] Userbaseclass - password provided::anu@1412
+[INFO ] 2021-09-16 23:18:48.368 [main] Userbaseclass - login passed
+[ERROR] 2021-09-16 23:18:59.399 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51340}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 928c24b74dfe6a89462769ee1cc49624
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[FATAL] 2021-09-16 23:19:01.508 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-16 23:19:01.765 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-16 23:19:01.855 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-16 23:19:01.927 [main] TC_UserdashboardTest_002 - password entered

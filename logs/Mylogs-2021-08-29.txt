@@ -1,0 +1,28 @@
+[FATAL] 2021-08-29 20:47:15.530 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-29 20:47:15.813 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-29 20:47:15.953 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-29 20:47:15.996 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-08-29 20:48:41.655 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-29 20:48:41.926 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-29 20:48:42.045 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-29 20:48:42.093 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-08-29 20:50:44.715 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-29 20:50:44.959 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-29 20:50:45.078 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-29 20:50:45.126 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-08-29 20:51:38.331 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-29 20:51:38.588 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-29 20:51:38.700 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-29 20:51:38.754 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-08-29 20:51:44.566 [main] TC_UserLoginTest_2 - Launch browser
+[INFO ] 2021-08-29 20:51:44.831 [main] TC_UserLoginTest_2 - Browser successfully opened 
+[INFO ] 2021-08-29 20:51:44.903 [main] TC_UserLoginTest_2 - username entered
+[INFO ] 2021-08-29 20:51:44.948 [main] TC_UserLoginTest_2 - password entered
+[FATAL] 2021-08-29 20:58:30.498 [main] TC_UserLoginTest_2 - Launch browser
+[INFO ] 2021-08-29 20:58:30.842 [main] TC_UserLoginTest_2 - Browser successfully opened 
+[INFO ] 2021-08-29 20:58:30.919 [main] TC_UserLoginTest_2 - username entered
+[INFO ] 2021-08-29 20:58:30.960 [main] TC_UserLoginTest_2 - password entered
+[FATAL] 2021-08-29 21:01:20.724 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-29 21:01:20.962 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-29 21:01:21.083 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-29 21:01:21.130 [main] TC_UserLoginTest_001 - password entered

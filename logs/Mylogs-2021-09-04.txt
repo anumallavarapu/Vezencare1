@@ -1,0 +1,9 @@
+[FATAL] 2021-09-04 23:54:04.239 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-09-04 23:54:04.414 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-09-04 23:54:04.532 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-09-04 23:54:04.599 [main] TC_UserLoginTest_001 - password entered
+[INFO ] 2021-09-04 23:54:09.245 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-04 23:54:09.314 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-04 23:54:11.385 [main] Userbaseclass - login passed
+[INFO ] 2021-09-04 23:54:12.906 [main] Userbaseclass - username provided::9243581353
+[INFO ] 2021-09-04 23:54:12.981 [main] Userbaseclass - password provided::456813

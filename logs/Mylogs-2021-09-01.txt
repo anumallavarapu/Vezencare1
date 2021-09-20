@@ -1,0 +1,54 @@
+[INFO ] 2021-09-01 10:05:11.324 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-01 10:05:11.408 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-01 10:05:14.240 [main] Userbaseclass - login passed
+[INFO ] 2021-09-01 10:05:15.703 [main] Userbaseclass - username provided::9243581353
+[INFO ] 2021-09-01 10:05:15.795 [main] Userbaseclass - password provided::456813
+[INFO ] 2021-09-01 10:05:17.865 [main] Userbaseclass - login passed
+[ERROR] 2021-09-01 10:05:28.936 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=92.0.4515.159)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52641}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e60ab5783262bea22b99ce94b42d454b
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-01 10:05:29.285 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-01 10:05:29.360 [main] Userbaseclass - password provided::12345
+[INFO ] 2021-09-01 10:05:31.445 [main] Userbaseclass - login passed
+[ERROR] 2021-09-01 10:05:42.486 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=92.0.4515.159)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52641}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e60ab5783262bea22b99ce94b42d454b
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-01 10:05:42.874 [main] Userbaseclass - username provided::9346078959
+[INFO ] 2021-09-01 10:05:42.954 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-01 10:05:45.035 [main] Userbaseclass - login passed
+[INFO ] 2021-09-01 10:05:46.484 [main] Userbaseclass - username provided::8686962272
+[INFO ] 2021-09-01 10:05:46.565 [main] Userbaseclass - password provided::1234
+[INFO ] 2021-09-01 10:05:48.629 [main] Userbaseclass - login passed
+[ERROR] 2021-09-01 10:05:59.715 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=92.0.4515.159)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52641}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e60ab5783262bea22b99ce94b42d454b
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}
+[INFO ] 2021-09-01 10:06:00.055 [main] Userbaseclass - username provided::9705090668
+[INFO ] 2021-09-01 10:06:00.134 [main] Userbaseclass - password provided::anu@1412
+[INFO ] 2021-09-01 10:06:02.215 [main] Userbaseclass - login passed
+[ERROR] 2021-09-01 10:06:13.285 [main] Userloginpage - This error message ::: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/header/div/div/nav/ul/li[18]/a"}
+  (Session info: chrome=92.0.4515.159)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P3EADNK9', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\ANUSHA\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52641}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e60ab5783262bea22b99ce94b42d454b
+*** Element info: {Using=xpath, value=/html/body/div[1]/header/div/div/nav/ul/li[18]/a}

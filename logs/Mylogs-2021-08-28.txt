@@ -1,0 +1,27 @@
+[INFO ] 2021-08-28 13:07:08.412 [main] TC_UserLoginTest_001 - Launch browser
+[ERROR] 2021-08-28 13:07:08.415 [main] TC_UserLoginTest_001 - Launch browser
+[WARN ] 2021-08-28 13:07:08.415 [main] TC_UserLoginTest_001 - Launch browser
+[FATAL] 2021-08-28 13:07:08.415 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-28 13:07:09.539 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-28 13:07:09.689 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-28 13:07:09.764 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-08-28 17:04:39.935 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-28 17:04:42.192 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-28 17:04:42.356 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-28 17:04:42.426 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-08-28 17:05:25.572 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-28 17:05:26.317 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-28 17:05:26.429 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-28 17:05:26.494 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-08-28 17:05:50.051 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-28 17:05:50.737 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-28 17:05:50.836 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-28 17:05:50.892 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-08-28 17:33:33.877 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-28 17:33:34.004 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-28 17:33:34.130 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-28 17:33:34.198 [main] TC_UserLoginTest_001 - password entered
+[FATAL] 2021-08-28 17:38:46.156 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-08-28 17:38:46.339 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-08-28 17:38:46.437 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-08-28 17:38:46.473 [main] TC_UserLoginTest_001 - password entered

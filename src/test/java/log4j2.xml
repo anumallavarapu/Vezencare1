@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+    <Properties>
+        <Property name="basePath">logs</Property>
+    </Properties>
+ 
+    <Appenders>
+     <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout   pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n" />
+        </Console>
+        
+        <RollingFile name="testClasses" fileName="${basePath}/Mylogs.txt" filePattern="${basePath}/Mylogs-%d{yyyy-MM-dd}.txt">
+            <PatternLayout>
+                <pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+            </Policies>
+        </RollingFile>
+ 
+ 	    <RollingFile name="javaProject" fileName="${basePath}/java_logFile.txt" filePattern="${basePath}/java_logFile-%d{yyyy-MM-dd}.txt">
+            <PatternLayout>
+                <pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+            </Policies>
+        </RollingFile>
+ 
+       
+    </Appenders>
+ 
+    
+
+    <Loggers>
+        <Logger name="com.vezencare.testCases" level="debug" additivity="true">
+            <appender-ref ref="testClasses" level="debug" />
+        </Logger>
+        
+        <Logger name="com.UserTestDemo" level="debug" additivity="true">
+            <appender-ref ref="javaProject" level="debug" />
+           
+        </Logger>
+         <Logger name="com.vezencare.pageObjects" level="debug" additivity="true">
+            <appender-ref ref="testClasses" level="debug" />
+           
+        </Logger>
+        
+        
+        
+        <Root level="debug" additivity="false">
+            <appender-ref ref="console" />
+        </Root>
+    </Loggers>
+</Configuration>

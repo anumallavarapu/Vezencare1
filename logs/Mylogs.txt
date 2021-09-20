@@ -1,0 +1,4 @@
+[FATAL] 2021-09-19 00:25:16.164 [main] TC_UserLoginTest_001 - Launch browser
+[INFO ] 2021-09-19 00:25:16.374 [main] TC_UserLoginTest_001 - Browser successfully opened 
+[INFO ] 2021-09-19 00:25:16.508 [main] TC_UserLoginTest_001 - username entered
+[INFO ] 2021-09-19 00:25:16.592 [main] TC_UserLoginTest_001 - password entered
