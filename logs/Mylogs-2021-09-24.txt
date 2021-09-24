@@ -1,0 +1,128 @@
+[FATAL] 2021-09-24 21:09:58.267 [main] TC_UserProfilePageTest_003 - Launch browser
+[INFO ] 2021-09-24 21:09:58.585 [main] TC_UserProfilePageTest_003 - Browser successfully opened 
+[INFO ] 2021-09-24 21:09:58.799 [main] TC_UserProfilePageTest_003 - username entered
+[INFO ] 2021-09-24 21:09:58.911 [main] TC_UserProfilePageTest_003 - password entered
+[INFO ] 2021-09-24 21:10:01.121 [main] TC_UserProfilePageTest_003 - clicked on personal profile page
+[INFO ] 2021-09-24 21:10:25.786 [main] TC_UserProfilePageTest_003 - clicked on edit button
+[FATAL] 2021-09-24 21:14:29.229 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 21:14:29.529 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 21:14:29.675 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 21:14:29.778 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 21:30:12.593 [main] TC_UserProfilePageTest_003 - Launch browser
+[INFO ] 2021-09-24 21:30:12.884 [main] TC_UserProfilePageTest_003 - Browser successfully opened 
+[INFO ] 2021-09-24 21:30:13.025 [main] TC_UserProfilePageTest_003 - username entered
+[INFO ] 2021-09-24 21:30:13.113 [main] TC_UserProfilePageTest_003 - password entered
+[INFO ] 2021-09-24 21:30:15.291 [main] TC_UserProfilePageTest_003 - clicked on personal profile page
+[INFO ] 2021-09-24 21:30:18.330 [main] TC_UserProfilePageTest_003 - clicked on edit button
+[FATAL] 2021-09-24 21:30:48.201 [main] TC_UserProfilePageTest_003 - Launch browser
+[INFO ] 2021-09-24 21:30:48.628 [main] TC_UserProfilePageTest_003 - Browser successfully opened 
+[INFO ] 2021-09-24 21:30:48.774 [main] TC_UserProfilePageTest_003 - username entered
+[INFO ] 2021-09-24 21:30:48.878 [main] TC_UserProfilePageTest_003 - password entered
+[INFO ] 2021-09-24 21:30:51.090 [main] TC_UserProfilePageTest_003 - clicked on personal profile page
+[INFO ] 2021-09-24 21:30:54.327 [main] TC_UserProfilePageTest_003 - clicked on edit button
+[FATAL] 2021-09-24 21:31:47.696 [main] TC_UserProfilePageTest_003 - Launch browser
+[INFO ] 2021-09-24 21:31:47.955 [main] TC_UserProfilePageTest_003 - Browser successfully opened 
+[INFO ] 2021-09-24 21:31:48.095 [main] TC_UserProfilePageTest_003 - username entered
+[INFO ] 2021-09-24 21:31:48.196 [main] TC_UserProfilePageTest_003 - password entered
+[INFO ] 2021-09-24 21:31:50.394 [main] TC_UserProfilePageTest_003 - clicked on personal profile page
+[INFO ] 2021-09-24 21:31:52.866 [main] TC_UserProfilePageTest_003 - clicked on edit button
+[FATAL] 2021-09-24 21:54:49.962 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 21:54:50.305 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 21:54:50.458 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 21:54:50.542 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:04:22.584 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:04:22.950 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:04:23.086 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:04:23.206 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:05:23.099 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:05:23.393 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:05:23.516 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:05:23.638 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:08:02.094 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:08:02.421 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:08:02.560 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:08:02.656 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:11:03.171 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:11:03.541 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:11:03.685 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:11:03.781 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:12:26.428 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:12:26.714 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:12:26.855 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:12:26.955 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:14:32.278 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:14:32.620 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:14:32.757 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:14:32.861 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:15:14.922 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:15:15.195 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:15:15.315 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:15:15.419 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:31:01.799 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:31:02.125 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:31:02.244 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:31:02.356 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:34:30.648 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:34:30.940 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:34:31.080 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:34:31.192 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:50:50.341 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:50:50.609 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:50:50.753 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:50:50.857 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:54:45.917 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:54:46.205 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:54:46.335 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:54:46.419 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:58:01.002 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:58:01.266 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:58:01.426 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:58:01.546 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:59:16.484 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:59:16.833 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:59:16.982 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:59:17.070 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 22:59:56.069 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 22:59:56.418 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 22:59:56.555 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 22:59:56.647 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:03:25.532 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:03:25.803 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:03:25.939 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:03:26.027 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:05:51.414 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:05:51.752 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:05:51.884 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:05:52.004 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:13:38.281 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:13:38.579 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:13:38.727 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:13:38.839 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:15:34.989 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:15:35.353 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:15:35.494 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:15:35.590 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:16:37.986 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:16:38.264 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:16:38.411 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:16:38.507 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:18:13.457 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:18:13.786 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:18:13.930 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:18:14.018 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:22:06.436 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:22:06.788 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:22:06.931 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:22:07.027 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:24:36.697 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:24:36.982 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:24:37.126 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:24:37.248 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:41:45.708 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:41:46.016 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:41:46.152 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:41:46.240 [main] TC_UserdashboardTest_002 - password entered
+[FATAL] 2021-09-24 23:42:54.157 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-24 23:42:54.426 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-24 23:42:54.574 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-24 23:42:54.658 [main] TC_UserdashboardTest_002 - password entered

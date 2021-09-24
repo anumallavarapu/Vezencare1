@@ -1,0 +1,4 @@
+[FATAL] 2021-09-21 23:25:17.946 [main] TC_UserdashboardTest_002 - Launch browser
+[INFO ] 2021-09-21 23:25:18.336 [main] TC_UserdashboardTest_002 - Browser successfully opened 
+[INFO ] 2021-09-21 23:25:18.488 [main] TC_UserdashboardTest_002 - username entered
+[INFO ] 2021-09-21 23:25:18.580 [main] TC_UserdashboardTest_002 - password entered

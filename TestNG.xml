@@ -7,9 +7,11 @@
   <parameter name="browser"  value="chrome"/>
     <classes>
     	
-    	<class name="com.vezencare.testCases.TC_UserLoginTest_001"/>
-    	<class name="com.vezencare.testCases.TC_LoginDDT_002"/>
-        <class name="com.vezencare.testCases.TC_UserdashboardTest_002"/>
+    	<class name="com.vezencare.testCases.TC_UserdashboardTest_002"/>
+    	
+   
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+
+
