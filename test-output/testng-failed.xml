@@ -4,13 +4,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.vezencare.testCases.TC_UserdashboardTest_002">
+      <class name="com.vezencare.testCases.TC_UserMedicationDeliveryTest_005">
         <methods>
+          <include name="usermedicaldeliveryTest"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="userDashboardTest"/>
         </methods>
-      </class> <!-- com.vezencare.testCases.TC_UserdashboardTest_002 -->
+      </class> <!-- com.vezencare.testCases.TC_UserMedicationDeliveryTest_005 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

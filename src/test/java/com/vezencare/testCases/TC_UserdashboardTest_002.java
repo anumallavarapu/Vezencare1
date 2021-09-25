@@ -85,7 +85,7 @@ public class TC_UserdashboardTest_002 extends Userbaseclass{
 		Thread.sleep(5000);
 		
 		Userdashboardpage udp=new Userdashboardpage(driver); //creating object to dashboardpage
-		udp.Physicalapp();
+		udp.physicalApp();
 		
 		
 		Thread.sleep(5000);
@@ -163,50 +163,8 @@ public class TC_UserdashboardTest_002 extends Userbaseclass{
 		logger.info("appointment has been booked wait for doctor approval");
 			
 			
-			
-			
-			
-			
-			
-			//Thread.sleep(3000);
-		//	driver.findElement(By.id("A78")).click();
-		//	logger.info("submit timing");
-		
 		}
-		
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+			
 	
 	
 	}
