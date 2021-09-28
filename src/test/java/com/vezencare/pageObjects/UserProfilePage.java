@@ -37,6 +37,11 @@ public class UserProfilePage {
 	@FindBy(id="txtDob")	//dateofbirth element
 	WebElement DateOfBirth;
 	
+	@FindBy(xpath="//button[contains(text(),'Update')")
+	WebElement Updatebtn;
+	
+	@FindBy(xpath="/html[1]/body[1]/div[3]/div[1]/div[4]/div[2]/button[1]")	
+	WebElement Confirmationpopup;
 
 	public void personalProfile()
 	{
@@ -68,8 +73,15 @@ public class UserProfilePage {
 		//DateOfBirth.sendKeys(keysToSend);
 	}
 		
-		
-		
+	public void updateBtn()
+	{
+		Updatebtn.click();
+	}
+	
+	public void confirmationPopup()
+	{
+		Confirmationpopup.click();
+	}
 		
 		
 		

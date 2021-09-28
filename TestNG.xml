@@ -7,7 +7,7 @@
   <parameter name="browser"  value="chrome"/>
     <classes>
     	
-    	<class name="com.vezencare.testCases.TC_UserCareTakerServiceTest_006"/>
+    	<class name="com.vezencare.testCases.TC_UserTopMenuTest_010"/>
     	
    
     </classes>

@@ -6,16 +6,16 @@ import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.vezencare.pageObjects.UserProfilePage;
 import com.vezencare.pageObjects.Userloginpage;
 
-public class TC_UserProfilePageTest_003 extends Userbaseclass {
-
+public class TC_UserTopMenuTest_010 extends Userbaseclass {
+	
 	@Test
-	public void UserProfilePage() throws InterruptedException {
-		
-		
-		Logger logger = LogManager.getLogger(TC_UserProfilePageTest_003.class); 
+	
+	public void Usertopmenutest() throws InterruptedException 
+	{
+
+		Logger logger = LogManager.getLogger(TC_UserTopMenuTest_010.class); 
 		
 		logger.fatal("Launch browser"); 
 		
@@ -38,37 +38,20 @@ public class TC_UserProfilePageTest_003 extends Userbaseclass {
 		ulp.clickSubmit();
 
 		Thread.sleep(2000);
-		
-		
-		UserProfilePage upp=new UserProfilePage(driver); //create tobject to profilepageobject
-		upp.personalProfile();
-		logger.info("clicked on personal profile page");
-		
-		
-		upp.edit();
-		logger.info("clicked on edit button");
+		driver.findElement(By.xpath("//div[contains(text(),'Personal Profile')]")).click();
 		
 		Thread.sleep(3000);
+		driver.findElement(By.xpath("//a[contains(text(),'Edit')]")).click();
+		
+		String firstname=driver.findElement(By.xpath("//input[@id='txtFirstName']")).getText();
+		
+		driver.findElement(By.xpath("//button[contains(text(),'Update')]")).click();
 		
 		
-		upp.firstName();
+		driver.navigate().back();
+		String expected="Hi anushaa polavarapu" ;
 		
-		Thread.sleep(3000);
-		
-		upp.updateBtn();
-		
-		upp.confirmationPopup();
-		
-		
-		Thread.sleep(3000);
-	
-		
-		
-		
-		
-		
-		
-		
+		Assert.assertEquals(firstname, expected);
 		
 		
 		
@@ -78,23 +61,13 @@ public class TC_UserProfilePageTest_003 extends Userbaseclass {
 		
 		
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
+	
+	
+	
+	
+	
+	
+	
 
 }

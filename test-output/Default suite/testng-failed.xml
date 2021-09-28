@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.vezencare.testCases.TC_UserdashboardTest_002">
+      <class name="com.vezencare.testCases.TC_UserUploadReportsTest_008">
         <methods>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="userDashboardTest"/>
+          <include name="usercaretakerservice"/>
         </methods>
-      </class> <!-- com.vezencare.testCases.TC_UserdashboardTest_002 -->
+      </class> <!-- com.vezencare.testCases.TC_UserUploadReportsTest_008 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

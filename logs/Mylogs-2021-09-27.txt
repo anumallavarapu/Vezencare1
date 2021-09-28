@@ -1,0 +1,27 @@
+[FATAL] 2021-09-27 12:25:40.024 [main] TC_UserHealthCardTest_007 - Launch browser
+[INFO ] 2021-09-27 12:25:40.259 [main] TC_UserHealthCardTest_007 - Browser successfully opened 
+[INFO ] 2021-09-27 12:25:40.365 [main] TC_UserHealthCardTest_007 - username entered
+[INFO ] 2021-09-27 12:25:40.433 [main] TC_UserHealthCardTest_007 - password entered
+[INFO ] 2021-09-27 12:25:42.606 [main] TC_UserHealthCardTest_007 - redirect to healthcard page
+[INFO ] 2021-09-27 12:25:43.779 [main] TC_UserHealthCardTest_007 - healthcard downloaded
+[FATAL] 2021-09-27 13:02:43.725 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-27 13:02:44.020 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-27 13:02:44.170 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-27 13:02:44.242 [main] TC_UserCareTakerServiceTest_006 - password entered
+[FATAL] 2021-09-27 13:04:07.036 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-27 13:04:07.296 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-27 13:04:07.428 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-27 13:04:07.501 [main] TC_UserCareTakerServiceTest_006 - password entered
+[INFO ] 2021-09-27 13:04:09.677 [main] TC_UserCareTakerServiceTest_006 - clicked on uploadreports
+[INFO ] 2021-09-27 13:04:10.854 [main] TC_UserCareTakerServiceTest_006 - entered doctor name
+[FATAL] 2021-09-27 13:06:57.388 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-27 13:06:57.645 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-27 13:06:57.768 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-27 13:06:57.848 [main] TC_UserCareTakerServiceTest_006 - password entered
+[INFO ] 2021-09-27 13:07:00.023 [main] TC_UserCareTakerServiceTest_006 - clicked on uploadreports
+[FATAL] 2021-09-27 13:14:46.374 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-27 13:14:46.632 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-27 13:14:46.757 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-27 13:14:46.833 [main] TC_UserCareTakerServiceTest_006 - password entered
+[INFO ] 2021-09-27 13:14:49.011 [main] TC_UserCareTakerServiceTest_006 - clicked on uploadreports
+[INFO ] 2021-09-27 13:14:50.225 [main] TC_UserCareTakerServiceTest_006 - entered doctor name
