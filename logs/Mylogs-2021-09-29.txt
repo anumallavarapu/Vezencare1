@@ -1,0 +1,40 @@
+[FATAL] 2021-09-29 00:00:38.374 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-29 00:00:38.641 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-29 00:00:38.761 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-29 00:00:38.833 [main] TC_UserCareTakerServiceTest_006 - password entered
+[FATAL] 2021-09-29 01:25:25.200 [main] TC_UserTopMenuTest_010 - Launch browser
+[INFO ] 2021-09-29 01:25:25.443 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
+[INFO ] 2021-09-29 01:25:25.555 [main] TC_UserTopMenuTest_010 - username entered
+[INFO ] 2021-09-29 01:25:25.627 [main] TC_UserTopMenuTest_010 - password entered
+[FATAL] 2021-09-29 01:28:24.137 [main] TC_UserTopMenuTest_010 - Launch browser
+[INFO ] 2021-09-29 01:28:24.397 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
+[INFO ] 2021-09-29 01:28:24.517 [main] TC_UserTopMenuTest_010 - username entered
+[INFO ] 2021-09-29 01:28:24.597 [main] TC_UserTopMenuTest_010 - password entered
+[FATAL] 2021-09-29 01:35:17.983 [main] TC_UserTopMenuTest_010 - Launch browser
+[INFO ] 2021-09-29 01:35:18.229 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
+[INFO ] 2021-09-29 01:35:18.357 [main] TC_UserTopMenuTest_010 - username entered
+[INFO ] 2021-09-29 01:35:18.437 [main] TC_UserTopMenuTest_010 - password entered
+[FATAL] 2021-09-29 12:45:00.259 [main] TC_UserTopMenuTest_010 - Launch browser
+[INFO ] 2021-09-29 12:45:00.511 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
+[INFO ] 2021-09-29 12:45:00.668 [main] TC_UserTopMenuTest_010 - username entered
+[INFO ] 2021-09-29 12:45:00.762 [main] TC_UserTopMenuTest_010 - password entered
+[FATAL] 2021-09-29 12:46:20.762 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-29 12:46:21.296 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-29 12:46:21.437 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-29 12:46:21.510 [main] TC_UserCareTakerServiceTest_006 - password entered
+[FATAL] 2021-09-29 12:48:48.996 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-29 12:48:49.298 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-29 12:48:49.455 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-29 12:48:49.529 [main] TC_UserCareTakerServiceTest_006 - password entered
+[FATAL] 2021-09-29 13:10:33.317 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-29 13:10:33.568 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-29 13:10:33.715 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-29 13:10:33.791 [main] TC_UserCareTakerServiceTest_006 - password entered
+[FATAL] 2021-09-29 13:12:50.989 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-29 13:12:51.223 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-29 13:12:51.357 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-29 13:12:51.428 [main] TC_UserCareTakerServiceTest_006 - password entered
+[FATAL] 2021-09-29 13:15:28.108 [main] TC_UserCareTakerServiceTest_006 - Launch browser
+[INFO ] 2021-09-29 13:15:28.336 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
+[INFO ] 2021-09-29 13:15:28.453 [main] TC_UserCareTakerServiceTest_006 - username entered
+[INFO ] 2021-09-29 13:15:28.517 [main] TC_UserCareTakerServiceTest_006 - password entered

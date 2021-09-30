@@ -1,16 +1,16 @@
-[FATAL] 2021-09-29 00:00:38.374 [main] TC_UserCareTakerServiceTest_006 - Launch browser
-[INFO ] 2021-09-29 00:00:38.641 [main] TC_UserCareTakerServiceTest_006 - Browser successfully opened 
-[INFO ] 2021-09-29 00:00:38.761 [main] TC_UserCareTakerServiceTest_006 - username entered
-[INFO ] 2021-09-29 00:00:38.833 [main] TC_UserCareTakerServiceTest_006 - password entered
-[FATAL] 2021-09-29 01:25:25.200 [main] TC_UserTopMenuTest_010 - Launch browser
-[INFO ] 2021-09-29 01:25:25.443 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
-[INFO ] 2021-09-29 01:25:25.555 [main] TC_UserTopMenuTest_010 - username entered
-[INFO ] 2021-09-29 01:25:25.627 [main] TC_UserTopMenuTest_010 - password entered
-[FATAL] 2021-09-29 01:28:24.137 [main] TC_UserTopMenuTest_010 - Launch browser
-[INFO ] 2021-09-29 01:28:24.397 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
-[INFO ] 2021-09-29 01:28:24.517 [main] TC_UserTopMenuTest_010 - username entered
-[INFO ] 2021-09-29 01:28:24.597 [main] TC_UserTopMenuTest_010 - password entered
-[FATAL] 2021-09-29 01:35:17.983 [main] TC_UserTopMenuTest_010 - Launch browser
-[INFO ] 2021-09-29 01:35:18.229 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
-[INFO ] 2021-09-29 01:35:18.357 [main] TC_UserTopMenuTest_010 - username entered
-[INFO ] 2021-09-29 01:35:18.437 [main] TC_UserTopMenuTest_010 - password entered
+[FATAL] 2021-09-30 12:12:30.853 [main] TC_UserTopMenuTest_010 - Launch browser
+[INFO ] 2021-09-30 12:12:31.203 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
+[INFO ] 2021-09-30 12:12:31.347 [main] TC_UserTopMenuTest_010 - username entered
+[INFO ] 2021-09-30 12:12:31.417 [main] TC_UserTopMenuTest_010 - password entered
+[FATAL] 2021-09-30 12:17:46.174 [main] TC_UserTopMenuTest_010 - Launch browser
+[INFO ] 2021-09-30 12:17:46.488 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
+[INFO ] 2021-09-30 12:17:46.625 [main] TC_UserTopMenuTest_010 - username entered
+[INFO ] 2021-09-30 12:17:46.697 [main] TC_UserTopMenuTest_010 - password entered
+[FATAL] 2021-09-30 12:22:45.483 [main] TC_UserTopMenuTest_010 - Launch browser
+[INFO ] 2021-09-30 12:22:45.776 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
+[INFO ] 2021-09-30 12:22:45.899 [main] TC_UserTopMenuTest_010 - username entered
+[INFO ] 2021-09-30 12:22:45.971 [main] TC_UserTopMenuTest_010 - password entered
+[FATAL] 2021-09-30 12:24:02.285 [main] TC_UserTopMenuTest_010 - Launch browser
+[INFO ] 2021-09-30 12:24:02.584 [main] TC_UserTopMenuTest_010 - Browser successfully opened 
+[INFO ] 2021-09-30 12:24:02.716 [main] TC_UserTopMenuTest_010 - username entered
+[INFO ] 2021-09-30 12:24:02.778 [main] TC_UserTopMenuTest_010 - password entered

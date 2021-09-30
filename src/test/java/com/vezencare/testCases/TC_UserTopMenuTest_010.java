@@ -3,6 +3,7 @@ package com.vezencare.testCases;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -38,21 +39,37 @@ public class TC_UserTopMenuTest_010 extends Userbaseclass {
 		ulp.clickSubmit();
 
 		Thread.sleep(2000);
-		driver.findElement(By.xpath("//div[contains(text(),'Personal Profile')]")).click();
+		
+		WebElement ele=driver.findElement(By.xpath("//h4[contains(text(),'Hi anushaa polavarapu')]"));
+		
+		System.out.println("This is the hi message: " +ele.getText());
 		
 		Thread.sleep(3000);
-		driver.findElement(By.xpath("//a[contains(text(),'Edit')]")).click();
 		
-		String firstname=driver.findElement(By.xpath("//input[@id='txtFirstName']")).getText();
+		//verify image is displayed or not in webpage
+		WebElement img=driver.findElement(By.tagName("img"));
 		
-		driver.findElement(By.xpath("//button[contains(text(),'Update')]")).click();
+		if(img.isDisplayed())
+		{
+			System.out.println("Image is displayed");
+		}
 		
+		else
+		{
+			System.out.println("image is not displayed");
+		}
 		
-		driver.navigate().back();
-		String expected="Hi anushaa polavarapu" ;
+		Thread.sleep(3000);
 		
-		Assert.assertEquals(firstname, expected);
+		WebElement logo=driver.findElement(By.tagName("img"));
+		logo.click();
 		
+		String actual=driver.getTitle();
+		String expected="Vezen Care :: Index";
+		
+		Assert.assertEquals(actual, expected);
+		System.out.println("logo is displayed");
+				
 		
 		
 		

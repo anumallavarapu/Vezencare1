@@ -39,48 +39,50 @@ public class TC_UserLeftSideMenuTest_009 extends Userbaseclass
 
 	Thread.sleep(2000);
 	
-	WebElement ele1=driver.findElement(By.xpath("//div[contains(text(),'Personal Profile')]"));
-	ele1.click();
+	
+	UserLeftSideMenuBarVerification("Personal Profile","Vezen Care :: PersonalProfile");
+	
+	UserLeftSideMenuBarVerification("Health Profile","Vezen Care :: HealthProfile");
+	
+	
+	UserLeftSideMenuBarVerification("Family Health History","Vezen Care :: FamilyHealthHistory");
+	
+	
+	UserLeftSideMenuBarVerification("Medical Records","Vezen Care :: MedicalRecords");
+	
+	UserLeftSideMenuBarVerification("Vaccination","Vezen Care :: Vaccination");
+	
+	UserLeftSideMenuBarVerification("General Health Checkup Report","Vezen Care :: Generalhealth Checkup");
+	
+	UserLeftSideMenuBarVerification("BMI report","Vezen Care :: BMIReport");
+	
+	UserLeftSideMenuBarVerification("Attach Family Member","Vezen Care :: AttachFamilyMember");
+	
+	UserLeftSideMenuBarVerification("Physical Appointment","Vezen Care :: Specializations");
+	
+	UserLeftSideMenuBarVerification("Video Consultation","Vezen Care :: Specializations");
+	
+	UserLeftSideMenuBarVerification("Medication Delivery","Vezen Care :: MedicationDelivery");
+	
+	UserLeftSideMenuBarVerification("Caretaker Service","Vezen Care :: CareTakerServices");
+	
+	UserLeftSideMenuBarVerification("Booked Consultations","Vezen Care :: User_Doctor_Consultation");
+	
+	UserLeftSideMenuBarVerification("Upload Reports","Vezen Care :: UserDocuments");
+	
+	UserLeftSideMenuBarVerification("My Health Card","Vezen Care :: View Health Card");
+	
+	UserLeftSideMenuBarVerification("Change Password","Vezen Care :: ChangePassword");
 	
 	Thread.sleep(3000);
-	
-	String title1=driver.getTitle();
-	String expected1="Vezen Care :: PersonalProfile";
-	
-	//Assert.assertEquals(title1, expected);
-	
-	
-	if(title1.matches(expected1))
-	{
-		System.out.println("This title is " +title1);
-	}
-
-	driver.navigate().back();
-	
-	
-	WebElement ele2=driver.findElement(By.xpath("//div[contains(text(),'Health Profile')]")); //health profile
-	ele2.click();
-	
-	Thread.sleep(3000);
-	
-	String title2=driver.getTitle();
-	String expected2="Vezen Care :: HealthProfile";
-	
-	Assert.assertEquals(title2, expected2);
-	System.out.println("This title is " +title2);
-	
-	
-	driver.navigate().back();
-	
-	Thread.sleep(3000);
-	
+	/*
 	
 	WebElement ele3=driver.findElement(By.xpath("//div[contains(text(),'Family Health History')]")); //family hlth history
 	ele3.click();
 	Thread.sleep(3000);
 	
 	String title3=driver.getTitle();
-	String expected3="Vezen Care :: FamilyHealthHistory";
+	String expected3="Family Health History";
 	
 	Assert.assertEquals(title3, expected3);
 	System.out.println("This title is " +title3);
@@ -144,7 +146,7 @@ public class TC_UserLeftSideMenuTest_009 extends Userbaseclass
 	Thread.sleep(3000);
 	
 	String title8=driver.getTitle();
-	String expected8="Vezen Care :: AttachFamilyMember";
+	String expected8=,"Vezen Care :: AttachFamilyMember";
 	
 	Assert.assertEquals(title8, expected8);
 	System.out.println("This title is " +title8);
@@ -254,12 +256,37 @@ public class TC_UserLeftSideMenuTest_009 extends Userbaseclass
 	System.out.println("This title is " +title16);
 	
 	driver.navigate().back();
+	
+	*/
 	Thread.sleep(3000);
 	
 	
 	
 	
 	}
+
+private void UserLeftSideMenuBarVerification(String navigateLinkText,String expectedTitle) throws InterruptedException {
+	// Started navigation test for personal profile
+	String navigationLinkXpath = "//div[contains(text(),'" +navigateLinkText+"')]";
+	//"//div[contains(text(),'Personal Profile')]")
+	
+	WebElement ele1=driver.findElement(By.xpath(navigationLinkXpath));
+	ele1.click();
+	
+	Thread.sleep(3000);
+	
+	String navigatedPageTitle=driver.getTitle();
+	//String expectedTitle="Vezen Care :: PersonalProfile";
+	
+	//Assert.assertEquals(title1, expected1);
+	
+	Assert.assertEquals(navigatedPageTitle, expectedTitle);
+	System.out.println("This title is " +expectedTitle);
+
+	driver.navigate().back();
+	// Completed navigation test for personal profile
+	Thread.sleep(3000);
+}
 	
 	
 	
